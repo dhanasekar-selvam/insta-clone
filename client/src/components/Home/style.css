@@ -1,0 +1,23 @@
+.logo{
+width: 100%;
+text-align: left;
+
+}
+
+.home-card{
+    max-width: 600px;
+    margin: 18px auto;
+    height: max-content;
+
+}
+.img-size{
+width: auto;
+height:600px ;
+}
+
+.my-carousel{
+    height: 800px;
+}
+p.username {
+    margin-top: 15px;
+}
